@@ -1,4 +1,4 @@
-![logo](https://github.com/ratneshrt/ratneshrt/blob/main/the-batman-2022-robert-pattinson-wallpaper-3840x2160_54.jpg)
+![logo](https://github.com/ratneshrt/ratneshrt/blob/main/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 
 <h1 align="center">Hi 👋, I'm RATNESH🚀</h1>
 <h3 align="center">A AI/ML enthusiastic from knowhere</h3>
