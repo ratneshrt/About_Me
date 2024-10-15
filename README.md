@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/ratneshrt9" target="blank"><img src="https://img.shields.io/twitter/follow/ratneshrt9?logo=twitter&style=for-the-badge" alt="ratneshrt9" /></a> </p>
 
-- 🌱 Currently exploring the magical land of Kubernetes and Docker. Send snacks; it’s a long journey! 🛳️
+- 🌱 Currently exploring the ***magical land of Kubernetes and Docker.*** Send snacks; it’s a long journey! 🛳️
 
-- 👯 Looking to team up on Backend & DevOps projects. Let’s build something epic, one API call at a time! ⚙️
+- 👯 Looking to team up on **Backend & DevOps projects.** Let’s build something epic, ***one API call at a time!*** ⚙️
 
-- 💬 Got questions about Python, Java, JavaScript, TypeScript, Docker, React, DSA, or anything else that sounds cool? I’ve got answers (or Google does).
+- 💬 Got questions about **Python, Java, JavaScript, TypeScript, Docker, React, DSA,** or anything else that sounds cool? I’ve got answers (or ***Google does***).
 
-- 📫 Reach me at ratneshrt19@gmail.com — I promise I’ll reply faster than a Git merge conflict. 📬
+- 📫 Reach me at **ratneshrt19@gmail.com** — I promise I’ll reply faster than a Git merge conflict. 📬
 
 - ⚡ Fun fact: I copy-paste code like a pro, but only the parts Stack Overflow has blessed. 😎📄
 
