@@ -1,7 +1,7 @@
 ![logo](https://github.com/ratneshrt/ratneshrt/blob/main/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 
-<h1 align="center">Hi 👋, I'm RATNESH🚀</h1>
-<h3 align="center">A DevOps Engineer and Full-Stack Developer from knowhere</h3>
+<h1 align="center">Hi 👋, I'm RATNESH 💤</h1>
+<h3 align="center">A DevOps Wizard and Full-Stack Sorcerer from Knowhere, conjuring code and brewing magic in the cloud! ☁️✨</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474wgx45dehysgz9pgn1ldzdmmtgzxyguts2n0afng&rid=giphy.gif&ct=g">
 
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/ratneshrt9" target="blank"><img src="https://img.shields.io/twitter/follow/ratneshrt9?logo=twitter&style=for-the-badge" alt="ratneshrt9" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 Currently exploring the magical land of Kubernetes and Docker. Send snacks; it’s a long journey! 🛳️
 
-- 👯 I’m looking to collaborate on **Backend and DevOps Projects**
+- 👯 Looking to team up on Backend & DevOps projects. Let’s build something epic, one API call at a time! ⚙️
 
-- 💬 Ask me about **Python, Java, JavaScript, TypeScript, Docker, React, DSA and many more**
+- 💬 Got questions about Python, Java, JavaScript, TypeScript, Docker, React, DSA, or anything else that sounds cool? I’ve got answers (or Google does).
 
-- 📫 How to reach me **ratneshrt19@gmail.com**
+- 📫 Reach me at ratneshrt19@gmail.com — I promise I’ll reply faster than a Git merge conflict. 📬
 
-- ⚡ Fun fact **I copy-and-paste the code.📄**
+- ⚡ Fun fact: I copy-paste code like a pro, but only the parts Stack Overflow has blessed. 😎📄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
